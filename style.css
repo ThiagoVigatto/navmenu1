@@ -1,0 +1,26 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: 0 auto;
+}
+#nav-content{
+    background-color: #ff0000;
+}
+#ul-content{
+    list-style: none;
+    display: flex;
+    width: 30%;
+}
+#li-content{   
+    padding: 60px;
+}
+#li-content a{
+    text-decoration: none;
+    color: #fff; 
+    font-size: 20px;
+}
+.cr7coco
+{
+    width:142px;
+    float:left;
+}
